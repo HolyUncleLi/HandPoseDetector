@@ -1,2 +1,2 @@
 # HandPoseDetector
-This is project about dynamic hand pose detect.
+This is a project about dynamic hand pose detect.
