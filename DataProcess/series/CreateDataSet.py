@@ -9,7 +9,7 @@ mpHands = mp.solutions.hands
 hands = mpHands.Hands()
 mpDraw = mp.solutions.drawing_utils  # 画线函数
 
-# your video files' root
+
 root = "E:\\sample\\hands\\"
 num_train = 0
 f_train = open(root+"train\\"+str(num_train)+".csv",'w',newline='')
